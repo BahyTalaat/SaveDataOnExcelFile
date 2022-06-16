@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVYggYE/6g/yvpj840E2rCea7HrMT6DH4mL1Wb6N/CVASWJPr89KYhiUx6yI4vgByek4c4f1xU9p1a1oZGEfrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Jupiter_Work\\ExcelSheet\\ExcelSheet\\ExcelSheet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\ironxl.excel\\2022.3.0\\ironxl.excel.2022.3.0.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

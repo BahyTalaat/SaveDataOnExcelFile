@@ -1,0 +1,14 @@
++ Im Using Web Api Core 
++ I create Employee Class (Model to test with it ==> it like any record come from database)
++ I create WriteOnExcel Class to make Write() method on it 
++ Write () Method had the logic of save data in Excel file 
+
+---- How I save the data in Excel file 
+1- I used IronXL package ==> Install-Package IronXL.Excel
+2- I create folder to save file in it === > "C:\IronXL\temp1"
+3- get the properties and length of properties for model 
+4- declare list of Employee to save them 
+5- create of load (if exist) excel file 
+6- create sheet in it 
+7- save data on this sheet
+8- Save the file 
